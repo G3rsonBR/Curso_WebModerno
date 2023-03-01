@@ -1,4 +1,4 @@
-const cadeia_de_strings = ['1', '2', '3', '4', '5', '6', '7', '8', '9']
+const cadeia_de_strings = '1, 2, 3, 4, 5, 6, 7, 8, 9'
 
 '1' > '2'
 //output : false
